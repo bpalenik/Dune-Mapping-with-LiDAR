@@ -32,3 +32,5 @@ June 2010
 ![image](junsand2010.png)
 Zoomed out this far the two models don't appear to be too different, but when you look closer the differences become more apparent.
 ![image](zooooom.png)
+Even then the differences are subtle.  To make these differences more apparent the 2010 model was subtracted from the 2009 model to show all of the spots where the elevation differed between the two different elevation models.
+![image](difference.png)

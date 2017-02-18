@@ -7,7 +7,7 @@ From the Ground
 ![image](bettersandpic.jpg)
 
 From the Sky
-![image](sandpic.png)
+![image](Sandpic.png)
 
 
 

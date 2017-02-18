@@ -1,3 +1,5 @@
+
+![image](White_sands_panorama_2009.jpg)
 ## White Sands National Monument, New Mexico
 The White Sands National Monument contains the world's largest gypsum dune field with an area of 710 square kilometers. Gypsum is rarely found in the form of sand and is most commonly used to make drywall. The dunes are known to be constantly changing in shape and location.  The purpose of this web page is to explain how we can tell how the dunes are changing.
 
@@ -41,4 +43,4 @@ Even then the differences are subtle.  To make these differences more apparent t
 ![image](difference.png)
 The difference model shows increases in elevation as red and decreases in elevation as blue.
 ![image](zoomdiff.png)
-The red lines are the movement of the peaks and if you look at the difference of just this one peak, you can see that is migrated Northeast approximately 10 meters. This seems to be the overarching trend of the dune peaks.  The majority of the migrations appear to be Northeast on an average of 10 meters over the 18 months between these two data sets.
+The red lines are the movement of the crests and if you look at the difference of just this one crest, you can see that is migrated Northeast approximately 10 meters. This seems to be the overarching trend of the dune crests.  The majority of the migrations appear to be Northeast on an average of 10 meters over the 18 months between these two data sets.

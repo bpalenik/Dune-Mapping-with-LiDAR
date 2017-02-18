@@ -23,8 +23,12 @@ From a Microscope
 This is done through gathering LiDAR data. LiDAR, or LIght Detection And Ranging, is a method of surveying large areas of terrain by shooting laser beams out of usually an airplane at the surface of the Earth.  The laser beams return to the plane after they come into contact with something and they calculate elevation and classification of the terrain.
 ![image](LiDAR-Escaneo-Ejemplo.jpg)
 
-## The Dunes in January 2009
+## The Dunes
+Here are Digital elevation models created from the two different LiDAR data sets.  Yellow is lower elevation and red is higher elevation. 
+January 2009
 ![image](jansand2009.png)
 
-## The Dunes in June 2010
+June 2010
 ![image](junsand2010.png)
+Zoomed out this far the two models don't appear to be too different, but when you look closer the differences become more apparent.
+![image](zoooo0m.png)

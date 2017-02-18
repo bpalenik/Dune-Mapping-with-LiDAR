@@ -24,6 +24,7 @@ This is done through gathering LiDAR data. LiDAR, or LIght Detection And Ranging
 ![image](LiDAR-Escaneo-Ejemplo.jpg)
 
 ## The Dunes in January 2009
-![image]()
+![image](jansand2009.png)
 
 ## The Dunes in June 2010
+![image](junsand2010.png

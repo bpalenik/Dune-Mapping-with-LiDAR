@@ -18,7 +18,8 @@ From a Microscope
 ## How Do Dunes Migrate?
 
 ![image](Dunemigration.jpg)
-more on Dune Migration Dune-Mapping-with-LiDAR/Geology of Sand Dunes.pdf
+
+more on Dune Migration [link](Dune-Mapping-with-LiDAR/Geology of Sand Dunes.pdf)
 
 ## How do we map dune fields?
 This is done through gathering LiDAR data. LiDAR, or LIght Detection And Ranging, is a method of surveying large areas of terrain by shooting laser beams usually out of an airplane at the surface of the Earth.  The laser beams return to the plane after they come into contact with something and they calculate elevation and classification of the terrain.

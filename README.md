@@ -4,7 +4,7 @@
 
 
 
-![image](https://github.com/bpalenik/White-Sand-Dunes-NM/blob/master/Sandpic.png)
+![image](Sandpic.png)
 
 
 

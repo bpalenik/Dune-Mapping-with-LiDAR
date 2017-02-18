@@ -39,3 +39,5 @@ Zoomed out this far the two models don't appear to be too different, but when yo
 ![image](zooooom.png)
 Even then the differences are subtle.  To make these differences more apparent the 2010 model was subtracted from the 2009 model to show all of the spots where the elevation differed between the two different elevation models.
 ![image](difference.png)
+The difference model shows increases in elevation as red and decreases in elevation as blue.
+![image](zoomdiff.png)

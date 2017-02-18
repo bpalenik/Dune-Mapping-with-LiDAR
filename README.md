@@ -25,7 +25,7 @@ This is done through gathering LiDAR data. LiDAR, or LIght Detection And Ranging
 
 ## The Dunes
 Lidar data acquisition and processing completed by the National Center for Airborne Laser Mapping (NCALM - http://www.ncalm.org). NCALM funding provided by NSF's Division of Earth Sciences, Instrumentation and Facilities Program. EAR-1043051.
-https://doi.org/10.5069/G9Q23X5P
+https://doi.org/10.5069/G9Q23X5P (January 2009). https://doi.org/10.5069/G97D2S2D (June 2010).
 
 Here are Digital elevation models created from the two different LiDAR data sets.  Yellow is lower elevation and red is higher elevation. 
 January 2009

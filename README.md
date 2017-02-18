@@ -20,7 +20,7 @@ From a Microscope
 ![image](Dunemigration.jpg)
 
 ## How do we map dune fields?
-This is done through gathering LiDAR data. LiDAR, or LIght Detection And Ranging, is a method of surveying large areas of terrain by shooting laser beams out of usually an airplane at the surface of the Earth.  The laser beams return to the plane after they come into contact with something and they calculate elevation and classification of objects.
+This is done through gathering LiDAR data. LiDAR, or LIght Detection And Ranging, is a method of surveying large areas of terrain by shooting laser beams out of usually an airplane at the surface of the Earth.  The laser beams return to the plane after they come into contact with something and they calculate elevation and classification of the terrain.
 ![image](LiDAR-Escaneo-Ejemplo.jpg)
 
 ## The Dunes in January 2009

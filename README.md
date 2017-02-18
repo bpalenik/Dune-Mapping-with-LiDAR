@@ -31,4 +31,4 @@ January 2009
 June 2010
 ![image](junsand2010.png)
 Zoomed out this far the two models don't appear to be too different, but when you look closer the differences become more apparent.
-![image](zoooo0m.png)
+![image](zooooom.png)

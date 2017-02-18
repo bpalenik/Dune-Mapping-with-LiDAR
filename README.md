@@ -17,7 +17,7 @@ From a Microscope
 ![image](SmolSand.jpg)
 
 
-## How Do Dunes Migrate?
+## How do Dunes Migrate?
 
 ![image](Dunemigration.jpg)
 

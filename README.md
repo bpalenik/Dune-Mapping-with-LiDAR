@@ -15,7 +15,7 @@ From a Microscope
 
 ## How Do Dunes Migrate?
 
-![image](dunemigration.jpg)
+![image](Dunemigration.jpg)
 
 
 ### Support or Contact

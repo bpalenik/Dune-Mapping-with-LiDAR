@@ -1,12 +1,13 @@
 ## White Sands National Monument, New Mexico
-
+From the Ground
 
 
 
 
 ![image](bettersandpic.jpg)
 
-
+From the Sky
+![image](sandpic.png)
 
 
 

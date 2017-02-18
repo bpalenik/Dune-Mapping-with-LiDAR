@@ -4,7 +4,7 @@
 
 
 
-https://github.com/bpalenik/White-Sand-Dunes-NM/blob/master/LiDAR-Escaneo-Ejemplo.jpg
+
 
 
 

@@ -19,7 +19,6 @@ From a Microscope
 
 ![image](Dunemigration.jpg)
 
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## How do we map dune fields?
+This is done through gathering LiDAR data. LiDAR, or LIght Detection And Ranging, is a method of surveying large areas of terrain by bouncing laser beams off of the surface of an area.
+![image](LiDAR-Escaneo-Ejemplo.jpg)

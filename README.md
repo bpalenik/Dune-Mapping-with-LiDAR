@@ -41,4 +41,4 @@ Even then the differences are subtle.  To make these differences more apparent t
 ![image](difference.png)
 The difference model shows increases in elevation as red and decreases in elevation as blue.
 ![image](zoomdiff.png)
-The red lines are the movement of the peaks of the dunes moving East, 
+The red lines are the movement of the peaks and if you look at the difference of just this one peak, you can see that is migrated Northeast approximately 10 meters. This seems to be the overarching trend of the dune peaks.  The majority of the migrations appear to be Northeast on an average of 10 meters over the 18 months between these two data sets.

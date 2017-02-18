@@ -1,7 +1,7 @@
 
 ![image](White_sands_panorama_2009.jpg)
 ## White Sands National Monument, New Mexico
-The White Sands National Monument contains the world's largest gypsum dune field with an area of 710 square kilometers. Gypsum is rarely found in the form of sand and is most commonly used to make drywall. The dunes are known to be constantly changing in shape and location.  The purpose of this web page is to explain how we can tell how the dunes are changing.
+The White Sands National Monument contains the world's largest gypsum dune field with an area of 710 square kilometers. Gypsum is rarely found in the form of sand and is most commonly used to make drywall. The dunes are known to be constantly changing in shape and location.  The purpose of this web page is to explain how we can tell the dunes are changing.
 
 From the Ground
 

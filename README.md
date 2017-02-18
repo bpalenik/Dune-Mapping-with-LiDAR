@@ -1,10 +1,10 @@
-## Sand
+## White Sands National Monument, New Mexico
 
 
 
 
 
-![image](Sandpic.png)
+![image](bettersandpic.jpg)
 
 
 

@@ -44,3 +44,6 @@ Even then the differences are subtle.  To make these differences more apparent t
 The difference model shows increases in elevation as red and decreases in elevation as blue.
 ![image](zoomdiff.png)
 The red lines are the movement of the crests and if you look at the difference of just this one crest, you can see that is migrated Northeast approximately 10 meters. This seems to be the overarching trend of the dune crests.  The majority of the migrations appear to be Northeast on an average of 10 meters over the 18 months between these two data sets.
+## Conclusion
+
+## References
